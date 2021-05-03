@@ -6,18 +6,18 @@ password: Password
 createNewPassword: Create new password
 accountSettings: Account settings
 email: E-Mail
-aboutPocketCode: About Pocket Code
-about: About
+aboutPocketCode: ਪਾਕੇਟ ਕੋਡ ਬਾਰੇ
+about: ਬਾਰੇ
 education: Education
 chat: Chat and forums
 others: Others
-tutorials: Help
+tutorials: ਮਦਦ ਕਰੋ
 googlePlay: Google Play Store
 iosAppStore: iOS App store
 huaweiAppGallery: Huawei AppGallery
 passwordsNoMatch: The passwords didn't match.
 error: Error
-cancel: Cancel
+cancel: ਰੱਦ ਕਰੋ
 report: Report
 deleteIt: Yes, delete it!
 reportIt: Yes, report it!
@@ -56,7 +56,7 @@ wellDone: "Well done!"
 done: "Done!"
 notificationsReadMessage: "It looks like you don't have any notifications."
 confirmMessage: "Yes, delete it"
-cancelMessage: "Cancel"
+cancelMessage: "ਰੱਦ ਕਰੋ"
 notificationsUnauthorizedError: "Unable to authorize user"
 notificationsClearError: "Unable to mark notifications as read!"
 pleaseWait: "Please wait..."
@@ -158,7 +158,7 @@ programs:
   show_more: Show More
   comments: Comments
   send: Send
-  delete: Delete
+  delete: ਮਿਟਾਓ
   report: Report
   report_popup: The comment was successfully reported.
   report_popup_header: Reported
@@ -166,9 +166,9 @@ programs:
   deleted_popup_header: Deleted
   noAdminRights: You have no admin rights. Please Log in as an Admin.
   editDescription: Edit the project description
-  saveDescription: Save
+  saveDescription: ਸੇਵ
   editCredits: Edit the project notes and credits
-  saveCredits: Save
+  saveCredits: ਸੇਵ
   addComment: Write a comment
   thumbsUp: Thumbs up!
   smile: Smile!
@@ -275,7 +275,7 @@ profile:
 myprofile:
   editProfile: Edit profile
   edit: Edit
-  done: Done
+  done: ਹੋ ਗਿਆ
   checkMail: An email was sent to your email address. Please check your inbox.
   passwordUpdated: Your password was successfully updated.
   avatar: Avatar
@@ -429,7 +429,7 @@ errors:
   programversion:
     tooold: 'Sorry, you are using an old version of Pocket Code. Please update to the latest version.'
   authentication:
-    title: Authentication failed
+    title: ਪ੍ਰਮਾਣਿਕਤਾ ਅਸਫਲ
     webview: |
       Your user credentials are wrong.
       Please try to log in again in the app.
@@ -573,7 +573,7 @@ codeview:
   totalNumberOf: 'Total number of'
   scenes: 'Scenes'
   scripts: 'Scripts'
-  bricks: 'Bricks'
+  bricks: 'ਇੱਟਾਂ'
   objects: 'ਅਦਾਕਾਰ ਅਤੇ ਆਬਜੈਕਟ'
   looks: 'Looks'
   sounds: 'Sounds'
@@ -593,7 +593,7 @@ codeStatistics:
   title: "Code statistics"
   error: "Code statistics can't be displayed."
   general: 'General'
-  bricks: 'Bricks'
+  bricks: 'ਇੱਟਾਂ'
   eventBricks: 'ਘਟਨਾ'
   controlBricks: 'ਨਿਯੰਤਰਣ'
   motionBricks: 'ਗਤੀ'
